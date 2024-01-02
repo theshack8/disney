@@ -1,7 +1,7 @@
 {
-    "name":"Hello, PWA",
-    "shot_name":"PWA",
-    "description":"Start for PWA",
+    "name":"Straberry",
+    "shot_name":"STR",
+    "description":"Straberry for Orange",
     "scope":".",
     "start_url":"./",
     "display":"fullscreen",
